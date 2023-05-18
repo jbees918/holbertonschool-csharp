@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-#All comments should go here
+# Script that initializes and builds a new C# project
 
-dotnet new console -o "1-new_project"
-dotnet build "1-new_project"
+dotnet new console -n 1-new_project
+cd 1-new_project
+dotnet build
