@@ -6,6 +6,6 @@ public class csharptask
 {
     public static void Main()
     {
-        Console.writeLine("\"Programming is like building a multilingual puzzle");
+        Console.WriteLine("\"Programming is like building a multilingual puzzle");
     }
 }
