@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+// comment
+
+public class csharptask
+{
+    public static void Main()
+    {
+        Console.writeLine("\"Programming is like building a multilingual puzzle");
+    }
+}
